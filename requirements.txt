@@ -1,0 +1,8 @@
+nemo_toolkit==1.23.0
+nemo_toolkit[asr]==1.23.0
+transformers==4.36.0
+huggingface-hub==0.23.2
+TTS
+sounddevice
+fastapi
+uvicorn
